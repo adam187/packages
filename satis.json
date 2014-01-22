@@ -2,6 +2,7 @@
     "name": "bitnoise",
     "license": "MIT",
     "homepage": "http://adam187.github.io/packages/",
+    "output-dir": ".",
     "repositories": [
         {
             "type": "vcs",
