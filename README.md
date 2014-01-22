@@ -1,7 +1,7 @@
 Bitnoise packages list
 ======================
 
-### Add repository to composer.json
+### Adding the repository to composer.json
 
 ```json
 {
