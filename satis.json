@@ -1,7 +1,7 @@
 {
     "name": "bitnoise",
     "license": "MIT",
-    "homepage": "http://localhost/satis/build/",
+    "homepage": "http://adam187.github.io/packages/",
     "repositories": [
         {
             "type": "vcs",
