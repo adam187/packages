@@ -1,64 +1,12 @@
 {
-    "name": "bitnoise",
+    "name": "adam187",
     "license": "MIT",
     "homepage": "http://adam187.github.io/packages/",
     "output-dir": ".",
     "repositories": [
         {
             "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnBaseBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnBreadcrumbBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnCrudBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnMediaBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnNodesBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnPageBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnErrbitBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnDealBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnMessageBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnFreshMailBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnFaqBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnUserBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnMenuBundle.git"
-        },
-        {
-            "type": "vcs",
-            "url":  "git@github.com:Bitnoise/BtnSettingsBundle.git"
+            "url":  "git@github.com:adam187/REST-API.git"
         }
     ],
     "require-all": true,

@@ -1,4 +1,4 @@
-Bitnoise packages list
+Composer packages list
 ======================
 
 ### Adding the repository to composer.json
