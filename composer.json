@@ -1,0 +1,6 @@
+{
+    "require": {
+        "composer/composer": "dev-master",
+        "composer/satis": "dev-master"
+    }
+}
