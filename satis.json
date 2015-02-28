@@ -7,6 +7,10 @@
         {
             "type": "vcs",
             "url":  "git@github.com:adam187/REST-API.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@github.com:adam187/IvoryCKEditorBundle.git"
         }
     ],
     "require-all": true,
