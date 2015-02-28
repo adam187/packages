@@ -11,6 +11,10 @@
         {
             "type": "vcs",
             "url":  "git@github.com:adam187/IvoryCKEditorBundle.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@github.com:adam187/LiipImagineBundle.git"
         }
     ],
     "require-all": true,
