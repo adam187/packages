@@ -19,6 +19,10 @@
         {
             "type": "vcs",
             "url":  "git@github.com:adam187/ladybug-helpers.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@github.com:adam187/JMSDiExtraBundle.git"
         }
     ],
     "require-all": true,
