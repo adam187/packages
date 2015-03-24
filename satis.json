@@ -18,6 +18,10 @@
         },
         {
             "type": "vcs",
+            "url":  "git@github.com:adam187/ladybug-plugin-extra.git"
+        },
+        {
+            "type": "vcs",
             "url":  "git@github.com:adam187/JMSDiExtraBundle.git"
         }
     ],
